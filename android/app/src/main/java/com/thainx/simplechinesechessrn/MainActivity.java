@@ -1,4 +1,4 @@
-package com.rnstarter;
+package com.thainx.simplechinesechessrn;
 
 import android.os.Bundle;
 
@@ -20,7 +20,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "RNStarter";
+        return "SimpleChineseChessRN";
     }
 
     @Override
